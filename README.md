@@ -71,4 +71,7 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 - [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
 
 # Conclusion
-Machine learning is useful in solving real life problems in the world. Sepsis prediction project is useful for early detection of patient's sepsis status.
+Machine learning is useful in solving real life problems in the world. Sepsis prediction project is useful for early detection of patient's sepsis status. Kindly reach out for contribution 
+
+#### Author
+Winifred Kwakye

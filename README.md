@@ -51,11 +51,11 @@ The both long command-lines have a same structure, they pipe multiple commands u
     
     - Demo
 
-          uvicorn src.demo_01.api:app --reload 
+          uvicorn main:app --reload 
 
-    <!-- - Salary prediction
+    <!-- - Sepsis prediction
 
-          uvicorn src.salary.api:app --reload  -->
+          uvicorn main:app --reload  -->
 
 
   - Go to your browser at the following address, to explore the api's documentation :
